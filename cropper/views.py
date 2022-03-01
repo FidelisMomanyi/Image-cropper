@@ -6,6 +6,7 @@ from django.http import Http404
 from .models import Location, Category, Image
 from django.core.exceptions import ObjectDoesNotExist
 
+
 # Create your views here.
 def main(request):
     try:
