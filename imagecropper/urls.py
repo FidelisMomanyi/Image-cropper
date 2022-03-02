@@ -20,7 +20,7 @@ from django import urls
 
 
 urlpatterns = [
-    path('', admin.site.urls),
+    path('admin/', admin.site.urls),
     path('', include('cropper.urls'))
 
     
