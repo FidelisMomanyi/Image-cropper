@@ -1,0 +1,6 @@
+.vscode
+virtual/
+Media/
+__pycache__
+.env
+imagecropper/settings.py
