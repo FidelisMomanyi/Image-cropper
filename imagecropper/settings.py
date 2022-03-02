@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'imagecropper.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': BASE_DIR / 'schola',
+        'NAME': 'schola',
         'USER': 'user',
     'PASSWORD': 'fidelis1234'
 
