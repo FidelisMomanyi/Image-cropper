@@ -1,0 +1,1 @@
+web: gunicorn imagecropper.wsgi --log-file -
