@@ -25,7 +25,7 @@ git clone git ```https://github.com/FidelisMomanyi/Image-cropper.git```
 
 # Prerequisites
 
-To work with Impresser you need to have some few preresuisites.
+To work with Image-cropper you need to have some few preresuisites.
 - Terminal
 - Python3.8
 - A Linux machine
